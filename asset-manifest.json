@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project-react/static/css/main.97cfde1d.css",
+    "main.js": "/project-react/static/js/main.cd142f01.js",
+    "static/media/cctv-surveillance-camera-7267551_1280.jpg": "/project-react/static/media/cctv-surveillance-camera-7267551_1280.261106a0d3d81d883c93.jpg",
+    "static/media/shutterstock_1179248299.jpg": "/project-react/static/media/shutterstock_1179248299.3b535f291cea404297d3.jpg",
+    "static/media/refresh-smart-camera-ring-1629918388.jpg": "/project-react/static/media/refresh-smart-camera-ring-1629918388.f6d04aa2a841a335e844.jpg",
+    "static/media/smart_thermostat_with_glas.jpg": "/project-react/static/media/smart_thermostat_with_glas.22ae76d12572c7c8e001.jpg",
+    "static/media/istockphoto-1405489463-612x612.jpg": "/project-react/static/media/istockphoto-1405489463-612x612.e845bcd9436f2011a8cf.jpg",
+    "static/media/istockphoto-182908695-612x612.jpg": "/project-react/static/media/istockphoto-182908695-612x612.9b5226d5277f14c83c18.jpg",
+    "static/media/istockphoto-1977230951-612x612.jpg": "/project-react/static/media/istockphoto-1977230951-612x612.71dcc720575b1439814a.jpg",
+    "static/media/OIF.jpg": "/project-react/static/media/OIF.e10a750e319d9d207102.jpg",
+    "static/media/OIP.jpg": "/project-react/static/media/OIP.5137dc365eb1c0a9bda9.jpg",
+    "static/media/download.jpg": "/project-react/static/media/download.b116f84fa6c4d647a0eb.jpg",
+    "index.html": "/project-react/index.html",
+    "main.97cfde1d.css.map": "/project-react/static/css/main.97cfde1d.css.map",
+    "main.cd142f01.js.map": "/project-react/static/js/main.cd142f01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97cfde1d.css",
+    "static/js/main.cd142f01.js"
+  ]
+}
